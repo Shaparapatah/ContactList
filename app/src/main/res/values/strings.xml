@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ContactList</string>
+    <string name="contact_name_text">Имя контакта</string>
+    <string name="dialog_delete_text">Удалить контакт?</string>
+    <string name="dialog_yes">Да</string>
+    <string name="dialog_no">Нет</string>
+    <string name="menu_item_search">Search</string>
+    <string name="edit_text_name_info_fragment">Имя</string>
+    <string name="text_view_name_contact">ИМЯ</string>
+    <string name="text_phone_number">Телефон</string>
+    <string name="text_second_name">Фамилия</string>
+    <string name="search_contact_text">Поиск</string>
+    <string name="second_name_text">Фамилия</string>
+
 </resources>

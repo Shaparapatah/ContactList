@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contact_name_text_size">24sp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="width_120">120dp</dimen>
+    <dimen name="height_120">120dp</dimen>
+    <dimen name="marginStart_8">8dp</dimen>
+
+
+</resources>
